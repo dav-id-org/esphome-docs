@@ -142,6 +142,7 @@ Core Components
     Core, components/esphome, cloud-circle.svg
     WiFi, components/wifi, network-wifi.svg
     MQTT, components/mqtt, mqtt.png
+    Network, components/network, network-wifi.svg
 
     I²C Bus, components/i2c, i2c.svg
     SPI Bus, components/spi, spi.svg
@@ -484,6 +485,7 @@ Button Components
 
     Button Core, components/button/index, folder-open.svg
     Template Button, components/button/template, description.svg
+    Generic Output Button, components/button/output, upload.svg
     Restart Button, components/button/restart, restart.svg
     Wake-on-LAN, components/button/wake_on_lan, power_settings.svg
 
